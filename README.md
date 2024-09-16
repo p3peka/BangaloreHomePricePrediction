@@ -1,6 +1,6 @@
 ## Step by step regression project about Bangalore property price prediction.
-You can view the project on my AWS server (currently disabled): \
-http://ec2-13-49-243-33.eu-north-1.compute.amazonaws.com
+You can view the project on my AWS server: \
+http://ec2-13-49-66-227.eu-north-1.compute.amazonaws.com
 
 There are changes relative to the author's original code (Codebasics), 
 such as correcting errors with feature names, replacing outdated technologies with current ones.
